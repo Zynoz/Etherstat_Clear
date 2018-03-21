@@ -51,9 +51,9 @@ class Util {
     }
 
     private static boolean hostAvailabilityCheck() {
-        try(Socket socket = new Socket("api.ethermine.org", 443)) {
+        try(Socket ignored = new Socket("api.ethermine.org", 443)) {
             return true;
-        } catch (IOException ignored) {
+        } catch (IOException ioe) {
 
         }
         return false;
