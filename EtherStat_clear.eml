@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/out/test/EtherStat_clear"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<levels>
+		<level name="jbcrypt-0.3m" value="project"/>
+		<level name="mysql-connector-java-5.1.45-bin" value="project"/>
+		<level name="gson-2.6.2" value="project"/>
+	</levels>
+</component>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="gson-2.6.2">
+    <archive path="H:/Java-Projects/EtherStat_clear/lib/gson-2.6.2.jar" />
+  </library>
+  <library name="jbcrypt-0.3m">
+    <archive path="H:/Java-Projects/EtherStat_clear/lib/jbcrypt-0.3m.jar" />
+  </library>
+  <library name="mysql-connector-java-5.1.45-bin">
+    <archive path="H:/Java-Projects/EtherStat_clear/lib/mysql-connector-java-5.1.45-bin.jar" />
+  </library>
+</eclipse-userlibraries>
+
