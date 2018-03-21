@@ -63,7 +63,6 @@ class Start {
                         jsonWorkers.addAll(Util.getWorkers(minerAddress));
                     } else {
                         disconnectDB();
-                        break;
                     }
                 } catch (MySQLException e) {
                     System.out.println(e.getMessage());
